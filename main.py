@@ -1,3 +1,5 @@
+#comment at top#
+
 class gameboard():
     def __init__(self, size):
         self.board = []
